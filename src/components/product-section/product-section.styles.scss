@@ -20,6 +20,21 @@
         .description-wrapper {
             width: 600px;
 
+            .watch-btn {
+                width: 200px;
+                border: 1px solid black;
+                background-color: #020288;
+                color: white;
+                height: 45px;
+                font-weight: bold;
+                border-radius: 25px;
+                cursor: pointer;
+            }
+            .watch-btn:hover {
+                color: #020288;
+                background-color: #F9F9F9;
+                border: 1px solid #020288;
+            }
             h1 {
                 color: blue;
             }

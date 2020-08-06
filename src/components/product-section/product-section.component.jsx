@@ -11,6 +11,8 @@ const LandingSection = () => {
                 <p>Donec auctor lorem sed nisl dapibus hendrerit. Mauris libero orci, ornare id tortor finibus, 
                     tristique sagittis libero. Sed nulla magna, consequat in orci quis, mattis varius odio. Integer finibus facilisis felis, 
                     cursus faucibus est suscipit sed. Nunc facilisis lorem sed sodales aliquam.</p>
+
+                    <button className='watch-btn'> FIND OUT MORE</button>
                 </div>
 
             </div>
