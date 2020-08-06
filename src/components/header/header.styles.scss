@@ -1,0 +1,38 @@
+.header-container {
+    padding: 20px;
+    height: 100px;
+    display: flex;
+    justify-content: space-evenly;
+    color: white;
+    font-family: 'Lato', sans-serif;
+    
+    .header-company {
+        width: 15%;
+        font-weight: bold;
+        font-size: large;
+        cursor: pointer;
+    }
+
+    .header-company:hover {
+        letter-spacing: 1px;
+    }
+    .header-anchors {
+        margin-left: 150px;
+        width: 60%;
+        display: flex;
+        justify-content: space-evenly;
+        cursor: pointer;
+
+        .nav-button {
+            width: 200px;
+        }
+
+        .company-name {
+            width: 100%;
+        }
+    }
+
+    .nav-button:hover {
+        letter-spacing: 1px;
+    }
+}

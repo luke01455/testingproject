@@ -1,0 +1,19 @@
+.landing-section-container {
+    width: 100vw;
+    height: 100vh;
+    background: url("../../assetts/hero_background@2x.png") no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+   background-color: green;
+
+   h1 {
+       font-size: 2.5em;
+   }
+   .CTA-text-container {
+       margin-top: 175px;
+       color: white;
+
+
+   }
+}

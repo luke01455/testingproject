@@ -1,0 +1,19 @@
+.cta-button {
+    width: 200px;
+    height: 45px;
+    border-radius: 25px;
+    background-color: white;
+    border: 1px solid black;
+    font-size: large;
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    cursor: pointer;
+
+
+}
+
+.cta-button:hover {
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+}
