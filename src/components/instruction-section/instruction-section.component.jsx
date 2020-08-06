@@ -1,9 +1,6 @@
 import React from 'react';
 import InstructionCard from '../instruction-card/instruction-card.component'
 import './instruction-section.styles.scss';
-import iconOne from '../../assetts/benefit_one_icon.svg'
-import iconTwo from '../../assetts/benefit_two_icon.svg'
-import iconThree from '../../assetts/benefit_three_icon.svg'
 
 
 const InstructionSection = () => {
